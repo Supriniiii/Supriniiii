@@ -5,11 +5,9 @@
 
 <img src="assets/banner.svg" width="100%" alt="Khensani Mnisi banner" />
 
-<img src="assets/profile-circle.png" width="170" alt="Khensani Suprise (Supriniii) Mnisi" />
+<img src="assets/profile-circle.png" width="170" alt="Khensani Suprise (Supriniii) Mnisi" /><a href="https://github.com/supriniiii"> <img src="assets/typing.svg" width="640" alt="Hi, I'm Suprise, AI and software engineer" /></a>
 
-<a href="https://github.com/supriniiii">
-  <img src="assets/typing.svg" width="640" alt="Hi, I'm Suprise, AI and software engineer" />
-</a>
+
 
 <br/>
 
@@ -27,8 +25,8 @@
 <tr>
 <td width="50%" valign="top">
 
-**Who I am**
-AI & Software Engineer who spent two years building production microservices and AI agent systems at **FNB**. I like turning complex, messy workflows into reliable, observable systems.
+**Who I am:**<br>
+AI & Software Engineer who has two years experience in building production microservices and AI agent systems . I'm passionate about building software that solves real-world problems, exploring artificial intelligence, and designing reliable backend systems. Through my experience in a banking technology environment, I've gained exposure to software development, AI initiatives, microservices, data engineering, and system observability.I like turning complex, messy workflows into reliable, observable systems.
 
 </td>
 <td width="50%" valign="top">
@@ -36,6 +34,21 @@ AI & Software Engineer who spent two years building production microservices and
 **What I'm doing now**
 Completing an **Advanced Diploma in Computer Science** at TUT (2028) and looking for my next role in AI, backend, software or platform engineering.
 
+I enjoy learning new technologies, experimenting with ideas, and turning what I learn into practical projects.
+
+🤖 Exploring AI agents, LLM applications, and intelligent automation.
+
+☕ Building backend applications with Java and Spring Boot.
+
+🐍 Using Python for AI, data processing, and automation.
+
+☁️ Learning and applying containerisation, Kubernetes, and cloud technologies.
+
+📊 Exploring monitoring, tracing, and data visualisation.
+
+🌱 Continuously learning and growing as an AI and software engineer.
+
+My goal: To build useful, scalable, and intelligent software while growing into a strong AI and software engineering professional.
 </td>
 </tr>
 </table>
@@ -59,7 +72,8 @@ Java,JavaScript,Python, Spring Boot microservices, REST, gRPC and event-driven s
 
 </td>
 <td width="25%" align="center" valign="top">
-<br/>Frontend & full stack Dev
+     
+### 📱<br/>Frontend
 Angular, HTML,CSS ,Node.js
 
 </td>
@@ -70,8 +84,11 @@ Docker, Kubernetes, CI/CD and API gateways
 </td>
 <td width="25%" align="center" valign="top">
 
-### 📈<br/>Observability
-Tracing and monitoring with OpenTelemetry, Prometheus and Grafana
+### 📈<br/> Observability & Data
+
+OpenTelemetry instrumentation,Prometheus and Grafana,
+Distributed tracing,SQL and relational databases,
+Power BI and data visualisation
 
 </td>
 </tr>
@@ -99,6 +116,14 @@ Tracing and monitoring with OpenTelemetry, Prometheus and Grafana
 <br/>
 ![Power BI](https://img.shields.io/badge/Power_BI-1F1B2E?style=for-the-badge&logo=powerbi&logoColor=A78BFA)
 ![Git](https://img.shields.io/badge/Git-1F1B2E?style=for-the-badge&logo=git&logoColor=A78BFA)
+<br/>
+![Next.js](https://img.shields.io/badge/Next.js-1F1B2E?style=for-the-badge&logo=nextdotjs&logoColor=A78BFA)
+![FastAPI](https://img.shields.io/badge/FastAPI-1F1B2E?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
+![Firebase](https://img.shields.io/badge/Firebase-1F1B2E?style=for-the-badge&logo=firebase&logoColor=A78BFA)
+![LangChain](https://img.shields.io/badge/LangChain-1F1B2E?style=for-the-badge&logo=langchain&logoColor=A78BFA)
+![PHP](https://img.shields.io/badge/PHP-1F1B2E?style=for-the-badge&logo=php&logoColor=A78BFA)
+![MySQL](https://img.shields.io/badge/MySQL-1F1B2E?style=for-the-badge&logo=mysql&logoColor=A78BFA)
+
 
 </div>
 
@@ -110,34 +135,63 @@ Tracing and monitoring with OpenTelemetry, Prometheus and Grafana
 <tr>
 <td width="33%" valign="top">
 
-### 🛒 Microservices E-Commerce
-*Team project, Geeks4Learning learnership*
+### 🤖 Deep Agent Engineering Platform
+Turns a natural-language request into a runnable Python agent project through a deterministic engineering pipeline (requirements, architecture, prompts, validation). Includes a CLI and 98 tests.
 
-Angular frontend, Spring Boot services and PostgreSQL on Kubernetes with an API gateway.
+**Stack:** Python, LangChain, Azure OpenAI, ChromaDB, pytest
 
-**My role:** TODO one line on what you built
-
-[View repo →](https://github.com/supriniiii/TODO-REPO-NAME)
+[View repo →](https://github.com/Supriniiii/SupriniDeepAgent)
 
 </td>
 <td width="33%" valign="top">
 
-### 👤 finalUserService
-TODO one line on what it does and the stack
+### 🧭 CareerPilot AI
+AI career assistant: builds a profile, generates tailored resumes and cover letters (PDF/Word), scores application readiness and includes an AI advisor chat. Built on a rule that the AI never fabricates experience.<br>
+**Stack:** Next.js, React, TypeScript, Tailwind, Firebase, Google Gemini
 
-**Stack:** TODO
-
-[View repo →](https://github.com/supriniiii/finalUserService)
+[View repo →][(https://github.com/supriniiii/finalUserService](https://github.com/Supriniiii/careePilot))
 
 </td>
+<td width="33%" valign="top">
+
+### 🛒 AlgoBot Microservices E-Commerce
+*Team project, Geeks4Learning learnership*
+
+Angular frontend, Spring Boot services and PostgreSQL on Kubernetes with an API gateway.<br>
+
+**My role:** built the frontend service, backend service and api-gateway and deployment of the system<br>
+
+[View repo →](https://github.com/Geeks4LearningJHB/AlgoBot-Front-End)
+
+</td>
+
 <td width="33%" valign="top">
 
 ### ♻️ WasteSortApplication
-TODO one line on what it does and the stack
-
-**Stack:** TODO
+The application serves as an educational tool to promote sustainable waste management practices.<br>
+**Stack:** Backend framework to build RESTful APIs. H2 Database: In-memory database for storing data related to waste categories, disposal guidelines, and recycling tips. JPA: For data persistence and database operations. Spring Data REST: For exposing JPA repositories as REST APIs. Spring Validation: For validating input data.<br>
 
 [View repo →](https://github.com/supriniiii/WasteSortApplication)
+
+</td>
+<td width="33%" valign="top">
+### 🥕 FoodConnect
+Connects customers, farmers and food banks to cut food waste. Role-based dashboards, inventory by food category and recipe suggestions from the ingredients you have.<br>
+
+**Stack:** PHP, Bootstrap, MySQL<br>
+
+[View repo →](https://github.com/supriniiii/FoodConnect)
+
+</td>
+<td width="50%" valign="top">
+
+
+### 🏙️ CivicFix Triage
+Municipal service-request triage: an ML model scores complaint urgency, with a FastAPI service, a Streamlit tool and a Next.js dashboard for city teams. Predictions are advisory, so a human officer decides.<br>
+
+**Stack:** Python, FastAPI, Streamlit, Next.js<br>
+
+[View repo →](https://github.com/Supriniiii/civic-triage)
 
 </td>
 </tr>
