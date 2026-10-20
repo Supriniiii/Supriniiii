@@ -5,10 +5,10 @@
 
 <img src="assets/banner.svg" width="100%" alt="Khensani Mnisi banner" />
 
-<img src="assets/profile-circle.png" width="170" alt="Khensani (Jonny) Mnisi" />
+<img src="assets/profile-circle.png" width="170" alt="Khensani Suprise (Supriniii) Mnisi" />
 
 <a href="https://github.com/supriniiii">
-  <img src="assets/typing.svg" width="640" alt="Hi, I'm Khensani. AI and software engineer" />
+  <img src="assets/typing.svg" width="640" alt="Hi, I'm Suprise, AI and software engineer" />
 </a>
 
 <br/>
@@ -34,7 +34,7 @@ AI & Software Engineer who spent two years building production microservices and
 <td width="50%" valign="top">
 
 **What I'm doing now**
-Completing an **Advanced Diploma in Computer Science** at TUT (2028) and looking for my next role in AI, backend or platform engineering.
+Completing an **Advanced Diploma in Computer Science** at TUT (2028) and looking for my next role in AI, backend, software or platform engineering.
 
 </td>
 </tr>
@@ -55,10 +55,14 @@ LLM agents, RAG, MCP servers and multi-agent orchestration
 <td width="25%" align="center" valign="top">
 
 ### ⚙️<br/>Backend
-Java Spring Boot microservices, REST, gRPC and event-driven systems
+Java,JavaScript,Python, Spring Boot microservices, REST, gRPC and event-driven systems
 
 </td>
 <td width="25%" align="center" valign="top">
+<br/>Frontend & full stack Dev
+Angular, HTML,CSS ,Node.js
+
+</td>
 
 ### ☁️<br/>Cloud & DevOps
 Docker, Kubernetes, CI/CD and API gateways
