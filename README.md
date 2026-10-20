@@ -1,15 +1,15 @@
-<!-- Paste into the README.md of a PUBLIC repo named exactly: Supriniiii
-     Upload the whole /assets folder (banner, typing, footer and profile images) to the same repo. -->
-
+<!-- GitHub Special Profile README for Supriniiii -->
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Khensani Mnisi banner" />
-
-<img src="assets/profile-circle.png" width="170" alt="Khensani Suprise (Supriniii) Mnisi" /><a href="https://github.com/supriniiii"> <img src="assets/typing.svg" width="640" alt="Hi, I'm Suprise, AI and software engineer" /></a>
-
-
+<img src="assets/hero.svg" width="100%" alt="Khensani Mnisi Header" />
 
 <br/>
+
+<a href="https://github.com/supriniiii">
+  <img src="assets/typing.svg" width="600" alt="Hi, I'm Suprise, AI and software engineer" />
+</a>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suprise-mnisi-1b3b67190)
 [![Email](https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khensanin2002@gmail.com)
@@ -19,36 +19,31 @@
 
 ---
 
+<img src="assets/stats.svg" width="100%" alt="Statistics Divider" />
+
 ## ✨ About me
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Who I am:**<br>
-AI & Software Engineer who has two years experience in building production microservices and AI agent systems . I'm passionate about building software that solves real-world problems, exploring artificial intelligence, and designing reliable backend systems. Through my experience in a banking technology environment, I've gained exposure to software development, AI initiatives, microservices, data engineering, and system observability.I like turning complex, messy workflows into reliable, observable systems.
+### 👤 Who I am
+AI & Software Engineer with experience in building production microservices and AI agent systems. I'm passionate about building software that solves real-world problems, exploring artificial intelligence, and designing reliable backend systems. Through my experience in a banking technology environment, I've gained exposure to software development, AI initiatives, microservices, data engineering, and system observability. I like turning complex, messy workflows into reliable, observable systems.
 
 </td>
 <td width="50%" valign="top">
 
-**What I'm doing now**
-Completing an **Advanced Diploma in Computer Science** at TUT (2028) and looking for my next role in AI, backend, software or platform engineering.
+### 🎓 What I'm doing now
+Completing an **Advanced Diploma in Computer Science** at TUT and looking for my next role in AI, backend, software, or platform engineering.
 
-I enjoy learning new technologies, experimenting with ideas, and turning what I learn into practical projects.
+🤖 **Exploring:** AI agents, LLM applications, and intelligent automation.  
+☕ **Building:** Backend applications with Java and Spring Boot.  
+🐍 **Scripting:** Python for AI, data processing, and automation.  
+☁️ **Deploying:** Containerisation, Kubernetes, and cloud technologies.  
+📊 **Observing:** Monitoring, tracing, and data visualisation.  
 
-🤖 Exploring AI agents, LLM applications, and intelligent automation.
+**Goal:** Build useful, scalable, and intelligent software while growing as an engineering professional.
 
-☕ Building backend applications with Java and Spring Boot.
-
-🐍 Using Python for AI, data processing, and automation.
-
-☁️ Learning and applying containerisation, Kubernetes, and cloud technologies.
-
-📊 Exploring monitoring, tracing, and data visualisation.
-
-🌱 Continuously learning and growing as an AI and software engineer.
-
-My goal: To build useful, scalable, and intelligent software while growing into a strong AI and software engineering professional.
 </td>
 </tr>
 </table>
@@ -57,38 +52,38 @@ My goal: To build useful, scalable, and intelligent software while growing into 
 
 ## 🛠️ What I do
 
+<img src="assets/whatido.svg" width="100%" alt="What I Do Cards" />
+
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="20%" align="center" valign="top">
 
 ### 🤖<br/>AI Agents
-LLM agents, RAG, MCP servers and multi-agent orchestration
+LLM agents, RAG, MCP servers, and multi-agent orchestration
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="20%" align="center" valign="top">
 
 ### ⚙️<br/>Backend
-Java,JavaScript,Python, Spring Boot microservices, REST, gRPC and event-driven systems
+Java, JavaScript, Python, Spring Boot microservices, REST, gRPC
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="20%" align="center" valign="top">
      
 ### 📱<br/>Frontend
-Angular, HTML,CSS ,Node.js
+Angular, React, HTML5, CSS3, Node.js
 
 </td>
+<td width="20%" align="center" valign="top">
 
 ### ☁️<br/>Cloud & DevOps
-Docker, Kubernetes, CI/CD and API gateways
+Docker, Kubernetes, CI/CD pipelines, and API gateways
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="20%" align="center" valign="top">
 
-### 📈<br/> Observability & Data
-
-OpenTelemetry instrumentation,Prometheus and Grafana,
-Distributed tracing,SQL and relational databases,
-Power BI and data visualisation
+### 📈<br/>Observability & Data
+OpenTelemetry, Prometheus, Grafana, Distributed Tracing, Power BI
 
 </td>
 </tr>
@@ -106,26 +101,53 @@ Power BI and data visualisation
 ![TypeScript](https://img.shields.io/badge/TypeScript-1F1B2E?style=for-the-badge&logo=typescript&logoColor=A78BFA)
 ![Angular](https://img.shields.io/badge/Angular-1F1B2E?style=for-the-badge&logo=angular&logoColor=A78BFA)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F1B2E?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+
 <br/>
+
 ![Docker](https://img.shields.io/badge/Docker-1F1B2E?style=for-the-badge&logo=docker&logoColor=EC4899)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1F1B2E?style=for-the-badge&logo=kubernetes&logoColor=EC4899)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1F1B2E?style=for-the-badge&logo=githubactions&logoColor=EC4899)
 ![Prometheus](https://img.shields.io/badge/Prometheus-1F1B2E?style=for-the-badge&logo=prometheus&logoColor=EC4899)
 ![Grafana](https://img.shields.io/badge/Grafana-1F1B2E?style=for-the-badge&logo=grafana&logoColor=EC4899)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-1F1B2E?style=for-the-badge&logo=opentelemetry&logoColor=EC4899)
+
 <br/>
-![Power BI](https://img.shields.io/badge/Power_BI-1F1B2E?style=for-the-badge&logo=powerbi&logoColor=A78BFA)
-![Git](https://img.shields.io/badge/Git-1F1B2E?style=for-the-badge&logo=git&logoColor=A78BFA)
-<br/>
+
 ![Next.js](https://img.shields.io/badge/Next.js-1F1B2E?style=for-the-badge&logo=nextdotjs&logoColor=A78BFA)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1F1B2E?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
 ![Firebase](https://img.shields.io/badge/Firebase-1F1B2E?style=for-the-badge&logo=firebase&logoColor=A78BFA)
 ![LangChain](https://img.shields.io/badge/LangChain-1F1B2E?style=for-the-badge&logo=langchain&logoColor=A78BFA)
-![PHP](https://img.shields.io/badge/PHP-1F1B2E?style=for-the-badge&logo=php&logoColor=A78BFA)
-![MySQL](https://img.shields.io/badge/MySQL-1F1B2E?style=for-the-badge&logo=mysql&logoColor=A78BFA)
-
+![Power BI](https://img.shields.io/badge/Power_BI-1F1B2E?style=for-the-badge&logo=powerbi&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-1F1B2E?style=for-the-badge&logo=git&logoColor=A78BFA)
 
 </div>
+
+---
+
+## ⚡ Work Process
+
+<img src="assets/process.svg" width="100%" alt="Work Process Roadmap" />
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+<b>01. DISCOVER</b><br/>
+Understanding goals, target audience, and system requirements.
+</td>
+<td width="25%" align="center" valign="top">
+<b>02. DESIGN</b><br/>
+Structuring system architecture, wireframes, and data flows.
+</td>
+<td width="25%" align="center" valign="top">
+<b>03. DEVELOP</b><br/>
+Building clean, testable, microservice and AI solutions.
+</td>
+<td width="25%" align="center" valign="top">
+<b>04. DELIVER</b><br/>
+Observability testing, deployment, and performance tuning.
+</td>
+</tr>
+</table>
 
 ---
 
@@ -135,10 +157,10 @@ Power BI and data visualisation
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 Deep Agent Engineering Platform
-Turns a natural-language request into a runnable Python agent project through a deterministic engineering pipeline (requirements, architecture, prompts, validation). Includes a CLI and 98 tests.
+### 🤖 Deep Agent Platform
+Turns a natural-language request into a runnable Python agent project through a deterministic engineering pipeline. Includes CLI & 98 tests.
 
-**Stack:** Python, LangChain, Azure OpenAI, ChromaDB, pytest
+`Python` `LangChain` `Azure OpenAI` `ChromaDB` `pytest`
 
 [View repo →](https://github.com/Supriniiii/SupriniDeepAgent)
 
@@ -146,50 +168,53 @@ Turns a natural-language request into a runnable Python agent project through a 
 <td width="33%" valign="top">
 
 ### 🧭 CareerPilot AI
-AI career assistant: builds a profile, generates tailored resumes and cover letters (PDF/Word), scores application readiness and includes an AI advisor chat. Built on a rule that the AI never fabricates experience.<br>
-**Stack:** Next.js, React, TypeScript, Tailwind, Firebase, Google Gemini
+AI career assistant: generates tailored resumes and cover letters (PDF/Word), scores readiness, and features an AI advisor chat.
 
-[View repo →][(https://github.com/supriniiii/finalUserService](https://github.com/Supriniiii/careePilot))
+`Next.js` `React` `TypeScript` `Tailwind` `Firebase` `Gemini`
+
+[View repo →](https://github.com/Supriniiii/careePilot)
 
 </td>
 <td width="33%" valign="top">
 
-### 🛒 AlgoBot Microservices E-Commerce
-*Team project, Geeks4Learning learnership*
+### 🛒 AlgoBot E-Commerce
+*Team project, Geeks4Learning*
 
-Angular frontend, Spring Boot services and PostgreSQL on Kubernetes with an API gateway.<br>
+Angular frontend, Spring Boot microservices, and PostgreSQL on Kubernetes with an API gateway.
 
-**My role:** built the frontend service, backend service and api-gateway and deployment of the system<br>
+`Angular` `Spring Boot` `Kubernetes` `PostgreSQL`
 
 [View repo →](https://github.com/Geeks4LearningJHB/AlgoBot-Front-End)
 
 </td>
-
+</tr>
+<tr>
 <td width="33%" valign="top">
 
-### ♻️ WasteSortApplication
-The application serves as an educational tool to promote sustainable waste management practices.<br>
-**Stack:** Backend framework to build RESTful APIs. H2 Database: In-memory database for storing data related to waste categories, disposal guidelines, and recycling tips. JPA: For data persistence and database operations. Spring Data REST: For exposing JPA repositories as REST APIs. Spring Validation: For validating input data.<br>
+### ♻️ WasteSort App
+Educational application to promote sustainable waste management practices with REST API guidelines.
+
+`Java` `Spring Boot` `Spring Data REST` `H2` `JPA`
 
 [View repo →](https://github.com/supriniiii/WasteSortApplication)
 
 </td>
 <td width="33%" valign="top">
-### 🥕 FoodConnect
-Connects customers, farmers and food banks to cut food waste. Role-based dashboards, inventory by food category and recipe suggestions from the ingredients you have.<br>
 
-**Stack:** PHP, Bootstrap, MySQL<br>
+### 🥕 FoodConnect
+Connects customers, farmers, and food banks to cut food waste. Features role-based dashboards & recipe suggestions.
+
+`PHP` `Bootstrap` `MySQL`
 
 [View repo →](https://github.com/supriniiii/FoodConnect)
 
 </td>
-<td width="50%" valign="top">
-
+<td width="33%" valign="top">
 
 ### 🏙️ CivicFix Triage
-Municipal service-request triage: an ML model scores complaint urgency, with a FastAPI service, a Streamlit tool and a Next.js dashboard for city teams. Predictions are advisory, so a human officer decides.<br>
+Municipal service-request triage: ML model scores complaint urgency with FastAPI, Streamlit, and Next.js dashboards.
 
-**Stack:** Python, FastAPI, Streamlit, Next.js<br>
+`Python` `FastAPI` `Streamlit` `Next.js`
 
 [View repo →](https://github.com/Supriniiii/civic-triage)
 
@@ -203,10 +228,22 @@ Municipal service-request triage: an ML model scores complaint urgency, with a F
 
 <div align="center">
 
-![TUT](https://img.shields.io/badge/Advanced_Diploma_CS_(2028)-TUT-7C3AED?style=flat-square)
+![TUT](https://img.shields.io/badge/Advanced_Diploma_CS-TUT-7C3AED?style=flat-square)
 ![TUT](https://img.shields.io/badge/Diploma_in_Computer_Science-TUT-7C3AED?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-EC4899?style=flat-square&logo=amazonaws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-AI_Foundations_Associate-EC4899?style=flat-square&logo=oracle&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=supriniiii&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriniiii&layout=compact&theme=synthwave&hide_border=true" height="165" alt="Most used programming languages"/>
+<img src="https://streak-stats.demolab.com?user=supriniiii&theme=synthwave&hide_border=true" height="165" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -216,12 +253,15 @@ Municipal service-request triage: an ML model scores complaint urgency, with a F
 
 <div align="center">
 
-I'm open to AI engineering, software engineering and backend roles.
-If you're hiring or want to collaborate, reach out. I'd love to hear from you.
+<img src="assets/cta.svg" width="100%" alt="Let's Build Something Together" />
+
+<br/><br/>
+
+I'm open to AI engineering, software engineering, and backend roles.  
+If you're hiring or want to collaborate, reach out!
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/Message_me_on_LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suprise-mnisi-1b3b67190)
 
-<img src="assets/footer.svg" width="100%" alt="footer" />
-
 </div>
-# Supriniiii.github.io
