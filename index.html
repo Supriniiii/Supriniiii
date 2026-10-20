@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Khensani Mnisi | AI &amp; Software Engineer</title>
+<meta name="description" content="AI and Software Engineer building LLM agents, Spring Boot microservices and observable cloud systems.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#05050f;--card:#0d0d1f;--line:#1e1b3a;--p:#7c3aed;--p2:#a78bfa;--pink:#ec4899;--tx:#f4f4ff;--mu:#9a98b8;color-scheme:dark}
+*{box-sizing:border-box;margin:0}
+html{scroll-behavior:smooth;scroll-padding-top:70px}
+body{background:var(--bg);color:var(--tx);font-family:Sora,system-ui,sans-serif;line-height:1.6;overflow-x:hidden}
+a{color:inherit;text-decoration:none}
+nav{position:fixed;top:0;left:0;right:0;z-index:20;display:flex;justify-content:space-between;align-items:center;padding:14px 5vw;background:rgba(5,5,15,.8);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+nav b{font-size:1rem}nav b span{color:var(--p2)}
+nav div{display:flex;gap:22px;font-size:.85rem;color:var(--mu)}
+nav div a:hover{color:var(--p2)}
+section{padding:90px 5vw;max-width:1100px;margin:auto}
+h2{font-size:clamp(1.6rem,4vw,2.3rem);margin-bottom:34px}
+h2 span,.hl{color:var(--p2)}
+.hero{min-height:100vh;display:grid;grid-template-columns:1.1fr .9fr;align-items:center;gap:30px;padding-top:110px}
+.hero small{color:var(--p2);font-size:1.1rem}
+.hero h1{font-size:clamp(2.3rem,7vw,4.4rem);line-height:1.08;margin:6px 0 14px}
+.role{font-size:clamp(1.2rem,3vw,1.7rem);font-weight:600;min-height:2.2rem}
+.role i{font-style:normal;color:var(--p2)}
+.role::after{content:"|";margin-left:2px;animation:blink 1s steps(1) infinite;color:var(--pink)}
+@keyframes blink{50%{opacity:0}}
+.hero p{color:var(--mu);max-width:480px;margin:14px 0 26px}
+.btn{display:inline-block;padding:12px 26px;border-radius:99px;font-weight:600;font-size:.9rem;border:1px solid var(--p);cursor:pointer;font-family:inherit;color:var(--tx);background:none;margin:0 10px 10px 0;transition:.25s}
+.btn.fill{background:linear-gradient(135deg,var(--p),var(--pink));border-color:transparent}
+.btn:hover{transform:translateY(-3px);box-shadow:0 8px 26px rgba(124,58,237,.45)}
+.pic{position:relative;justify-self:center;width:min(380px,80vw);aspect-ratio:1}
+.pic::before{content:"";position:absolute;inset:-14%;background:radial-gradient(circle,rgba(124,58,237,.75),rgba(236,72,153,.25) 45%,transparent 70%);filter:blur(24px);animation:pulse 5s ease-in-out infinite}
+.pic img{position:relative;width:100%;height:100%;object-fit:cover;border-radius:50%;border:3px solid var(--p2)}
+@keyframes pulse{50%{transform:scale(1.08);opacity:.8}}
+.grid{display:grid;gap:20px}
+.two{grid-template-columns:1fr 1fr}
+.three{grid-template-columns:repeat(3,1fr)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:28px;transition:.3s}
+.card:hover{border-color:var(--p);transform:translateY(-4px);box-shadow:0 12px 34px rgba(124,58,237,.25)}
+.card.glow{background:linear-gradient(160deg,#1a1040,var(--card) 70%)}
+.card h3{font-size:1.2rem;margin-bottom:10px}
+.card p,.card li{color:var(--mu);font-size:.92rem}
+.card ul{padding-left:18px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+.chips span{border:1px solid var(--line);border-radius:99px;padding:5px 13px;font-size:.8rem;color:var(--p2);background:#120f2a}
+.tl{border-left:2px solid var(--line);padding-left:26px}
+.tl .item{position:relative;margin-bottom:34px}
+.tl .item::before{content:"";position:absolute;left:-34px;top:6px;width:14px;height:14px;border-radius:50%;background:var(--p);box-shadow:0 0 14px var(--p)}
+.tl time{color:var(--p2);font-size:.82rem}
+.tl h3{font-size:1.1rem}
+.tl p{color:var(--mu);font-size:.92rem;max-width:640px}
+.proj .no{font-size:2.6rem;font-weight:700;color:var(--p);opacity:.6}
+.proj a.go{color:var(--p2);font-size:.88rem;font-weight:600}
+.contact{text-align:center}
+.contact p{color:var(--mu);margin-bottom:22px}
+.social{display:flex;justify-content:center;gap:22px;margin-top:18px;color:var(--p2)}
+footer{text-align:center;color:var(--mu);font-size:.8rem;padding:30px}
+#dot{position:fixed;width:18px;height:18px;border-radius:50%;background:var(--p2);pointer-events:none;z-index:50;transform:translate(-50%,-50%);transition:left .12s,top .12s;opacity:.8;mix-blend-mode:screen;display:none}
+.rv{opacity:0;transform:translateY(26px);transition:.7s}
+.rv.in{opacity:1;transform:none}
+@media(max-width:800px){.hero,.two,.three{grid-template-columns:1fr}.pic{order:-1}nav div{gap:12px;font-size:.75rem}nav b{display:none}.hero{padding-top:90px}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.rv{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+<div id="dot"></div>
+<nav><b>Khensani<span>.</span>dev</b>
+<div><a href="#home">Home</a><a href="#about">About</a><a href="#offer">Offer</a><a href="#experience">Experience</a><a href="#projects">Projects</a><a href="#contact">Contact</a></div></nav>
+
+<section class="hero" id="home">
+<div>
+<small>Hello, I’m</small>
+<h1>Khensani<br>Mnisi</h1>
+<div class="role"><i id="role">AI Engineer</i></div>
+<p>I build LLM agents, Spring Boot microservices and observable cloud systems, and turn messy workflows into reliable software.</p>
+<a class="btn fill" href="#projects">View my work</a><a class="btn" href="Khensani_Mnisi_CV.pdf" download>Download CV</a>
+</div>
+<div class="pic"><img src="assets/avatar-square.png" alt="Illustration of Khensani coding at a desk"></div>
+</section>
+
+<section id="about" class="rv">
+<h2>About <span>me</span></h2>
+<div class="card glow"><p>I’m an AI and Software Engineer from Pretoria, South Africa. Over two years I built production microservices and AI agent systems, first through a software development learnership with Geeks4Learning and then as an AI Engineer Intern at FNB. I’m now completing an Advanced Diploma in Computer Science at TUT and looking for my next role in AI, backend or platform engineering.</p></div>
+</section>
+
+<section id="offer" class="rv">
+<h2>What I <span>offer</span></h2>
+<div class="grid two">
+<div class="card glow"><h3>Development Skills</h3>
+<ul><li>LLM agents, RAG and MCP servers</li><li>Multi-agent orchestration</li><li>Java Spring Boot microservices</li><li>API gateways and event-driven systems</li><li>Kubernetes, CI/CD and observability</li></ul></div>
+<div class="card"><h3>Development Tools</h3>
+<div class="chips"><span>Java</span><span>Python</span><span>TypeScript</span><span>Angular</span><span>Spring Boot</span><span>FastAPI</span><span>PostgreSQL</span><span>Docker</span><span>Kubernetes</span><span>GitHub Actions</span><span>Apache APISIX</span><span>Apache Camel</span><span>OpenTelemetry</span><span>Prometheus</span><span>Grafana</span><span>Camunda</span><span>Power BI</span></div></div>
+</div>
+</section>
+
+<section id="experience" class="rv">
+<h2>My <span>experience</span></h2>
+<div class="tl">
+<div class="item"><time>Jun 2025 – Sep 2026</time><h3>AI Engineer Intern · FNB</h3><p>Built MCP servers and multi-agent orchestration for LLM agents, Spring Boot services, APISIX gateways on Kubernetes, and tracing with OpenTelemetry, Prometheus and Grafana across 10+ microservices.</p></div>
+<div class="item"><time>Oct 2024 – May 2025</time><h3>Software Developer Learnership · Geeks4Learning</h3><p>Trained in full-stack microservices with Spring Boot, Angular and PostgreSQL, deployed to Kubernetes with CI/CD through GitHub Actions.</p></div>
+<div class="item"><time>2026 – 2028 (expected)</time><h3>Advanced Diploma in Computer Science · TUT</h3><p>Following a Diploma in Computer Science (2021–2025). Certified: AWS AI Practitioner and Oracle AI Foundations Associate.</p></div>
+</div>
+</section>
+
+<section id="projects" class="rv">
+<h2>I build <span>projects</span></h2>
+<div class="grid three" id="plist"></div>
+</section>
+
+<section id="contact" class="contact rv">
+<h2>Contact <span>me</span></h2>
+<p>Tell me about your next project or role.</p>
+<button class="btn fill" id="copy">Copy email</button><a class="btn" href="mailto:khensanin2002@gmail.com">Send an email</a>
+<div class="social"><a href="https://linkedin.com/in/suprise-mnisi-1b3b67190" target="_blank" rel="noopener">LinkedIn ↗</a><a href="https://github.com/supriniiii" target="_blank" rel="noopener">GitHub ↗</a></div>
+</section>
+<footer>© 2026 Khensani Suprise Mnisi</footer>
+
+<script>
+// ---- Edit your projects here ----
+var PROJECTS=[
+ {n:"01",t:"Microservices E-Commerce",d:"Team project from my learnership: Angular frontend, Spring Boot services and PostgreSQL on Kubernetes with an API gateway.",l:"https://github.com/supriniiii"},
+ {n:"02",t:"finalUserService",d:"See the repository for details.",l:"https://github.com/supriniiii/finalUserService"},
+ {n:"03",t:"WasteSortApplication",d:"See the repository for details.",l:"https://github.com/supriniiii/WasteSortApplication"}
+];
+document.getElementById("plist").innerHTML=PROJECTS.map(function(p){return '<div class="card proj"><div class="no">'+p.n+'</div><h3>'+p.t+'</h3><p>'+p.d+'</p><br><a class="go" href="'+p.l+'" target="_blank" rel="noopener">View on GitHub ↗</a></div>'}).join("");
+// rotating role
+var roles=["AI Engineer","Software Engineer","Backend Developer"],ri=0,ci=0,del=false,el=document.getElementById("role");
+(function tick(){var w=roles[ri];ci+=del?-1:1;el.textContent=w.slice(0,ci);var s=del?45:90;
+if(!del&&ci===w.length){del=true;s=1400}else if(del&&ci===0){del=false;ri=(ri+1)%roles.length;s=300}setTimeout(tick,s)})();
+// scroll reveal
+var io=new IntersectionObserver(function(e){e.forEach(function(x){if(x.isIntersecting)x.target.classList.add("in")})},{threshold:.12});
+document.querySelectorAll(".rv").forEach(function(n){io.observe(n)});
+// cursor dot (desktop only)
+if(matchMedia("(pointer:fine)").matches){var d=document.getElementById("dot");d.style.display="block";
+addEventListener("mousemove",function(e){d.style.left=e.clientX+"px";d.style.top=e.clientY+"px"})}
+// copy email
+document.getElementById("copy").onclick=function(){var b=this;
+try{navigator.clipboard.writeText("khensanin2002@gmail.com").then(function(){b.textContent="Copied!";setTimeout(function(){b.textContent="Copy email"},1800)})}catch(x){location.href="mailto:khensanin2002@gmail.com"}};
+</script>
+</body>
+</html>
